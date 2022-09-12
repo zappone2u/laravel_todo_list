@@ -1,0 +1,12 @@
+body {
+    padding-top: 70px;
+    background-color: red;
+}
+
+#remember{
+    margin-right: 7px;
+}
+
+.form-inline{
+    display: inline-block;
+}
